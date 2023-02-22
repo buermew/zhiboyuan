@@ -1,0 +1,333 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="https://imglf5.lf127.net/img/3161014c87bd94a6/VTNweHJFUWlJSE1jeEZ4YnR2Rk5QZkVaZ1pFbEFLbG9CdCsxdVZLbS9pST0.png?imageView&thumbnail=1680x0&quality=96&stripmeta=0" group-title="4K",CCTV奥运50P
+http://159.75.85.63:5681/sxg.php?id=CCTV-16-4K_8000
+
+#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="https://imglf3.lf127.net/img/b4568b897f822998/VTNweHJFUWlJSE1jeEZ4YnR2Rk5QU1BqR3k4dUFWWGdCd0R6Y01mamdnZz0.png?imageView&thumbnail=1680x0&quality=96&stripmeta=0" group-title="4K",CCTV4K50P
+http://159.75.85.63:5681/sxg.php?id=ys4Kcq_2000
+
+#EXTINF:-1 tvg-id="1977" tvg-name="欢笑剧场" tvg-logo="https://imglf4.lf127.net/img/89dcfda094297015/VTNweHJFUWlJSE1jeEZ4YnR2Rk5QZldaczJmZEhNM2NuTFFBNkRDYWR6dz0.png?imageView&thumbnail=1680x0&quality=96&stripmeta=0" group-title="4K",欢笑剧场4K
+http://159.75.85.63:5681/sxg.php?id=hxjc-4k_8000
+
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="https://imglf6.lf127.net/img/0dd5016d602b26e8/VTNweHJFUWlJSFA3aEV2M25lQy9FbFB1U1k1RWk2ekFqR0RHcUt1ZkFMbz0.png?imageView&thumbnail=1680x0&quality=96&stripmeta=0" group-title="央视",CCTV综合
+https://live.v1.mk/api/bestv.php?id=cctv1hd8m/8000000
+
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://imglf4.lf127.net/img/91d07cc9870dec4d/VTNweHJFUWlJSFA3aEV2M25lQy9FdjBZcGhEbllEbTNVZVJhUmJLbU1HTT0.png?imageView&thumbnail=1680x0&quality=96&stripmeta=0" group-title="央视",CCTV经济
+https://live.v1.mk/api/bestv.php?id=cctv2hd8m/8000000
+
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="https://imglf4.lf127.net/img/96bcdc66730c436b/VTNweHJFUWlJSFA3aEV2M25lQy9FcUZndC81VDd3UnBEZVJUcHZLN1Bnbz0.png?imageView&thumbnail=1680x0&quality=96&stripmeta=0" group-title="央视",CCTV综艺
+https://live.v1.mk/api/bestv.php?id=cctv38m/8000000
+
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="https://imglf3.lf127.net/img/a38197ac2e689619/VTNweHJFUWlJSFA3aEV2M25lQy9FcEw4UzJWZnMzTjlzNG53MDg5NGZMYz0.png?imageView&thumbnail=1680x0&quality=96&stripmeta=0" group-title="央视",CCTV国际
+https://live.v1.mk/api/bestv.php?id=cctv4hd8m/8000000
+
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="https://imglf4.lf127.net/img/f462c1f06ec54fe3/VTNweHJFUWlJSFA3aEV2M25lQy9FcE1VV2xaZVpPVXNpZDNScDNMTEw0QT0.png?imageView&thumbnail=1680x0&quality=96&stripmeta=0" group-title="央视",CCTV体育
+https://live.v1.mk/api/bestv.php?id=cctv58m/8000000
+
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="https://imglf4.lf127.net/img/5199c944dd1d5f70/VTNweHJFUWlJSFA3aEV2M25lQy9Fakh1RENiOFlKUzFtclF3YTdYTWU1ST0.png?imageView&thumbnail=1680x0&quality=96&stripmeta=0" group-title="央视",CCTV5+
+https://live.v1.mk/api/bestv.php?id=cctv5phd8m/8000000
+
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="https://imglf4.lf127.net/img/7d84b3c23e9ce21b/VTNweHJFUWlJSFA3aEV2M25lQy9Fdlp5Q21JZTZvNkNLRWVKSHpEaWNNaz0.png?imageView&thumbnail=1680x0&quality=96&stripmeta=0" group-title="央视",CCTV电影
+https://live.v1.mk/api/bestv.php?id=cctv6hd8m/8000000
+
+#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="https://imglf5.lf127.net/img/ebf349d53e42ac81/VTNweHJFUWlJSFAzc0wxdXFEZTBOdDQ2M3JLd293VUVzWlpVNVdIcmpVYz0.png?imageView&thumbnail=1680x0&quality=96&stripmeta=0" group-title="央视",CCTV军事
+https://live.v1.mk/api/bestv.php?id=cctv7hd8m/8000000
+
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="https://imglf4.lf127.net/img/1117eec1c03a3813/VTNweHJFUWlJSFA3aEV2M25lQy9FbjlpZkpaLzFpSWx6UzBoQTl1QnZGTT0.png?imageView&thumbnail=1680x0&quality=96&stripmeta=0" group-title="央视",CCTV电视剧
+https://live.v1.mk/api/bestv.php?id=cctv8hd8m/8000000
+
+#EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="https://imglf6.lf127.net/img/b307a493258f6985/VTNweHJFUWlJSFA3aEV2M25lQy9FcjU0dnlMekVnUDAwZlhqdTczM2tUVT0.png?imageView&thumbnail=1680x0&quality=96&stripmeta=0" group-title="央视",CCTV记录
+https://live.v1.mk/api/bestv.php?id=cctv9hd8m/8000000
+
+#EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="https://imglf5.lf127.net/img/fe6c71b51d1df300/VTNweHJFUWlJSFAzc0wxdXFEZTBObmFGbGhOMVFNQmxra1B6THdZK1dMaz0.png?imageView&thumbnail=1680x0&quality=96&stripmeta=0" group-title="央视",CCTV教育
+https://live.v1.mk/api/bestv.php?id=cctv10hd8m/8000000
+
+#EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="https://imglf4.lf127.net/img/3fd2a4517aa64b24/VTNweHJFUWlJSFAzc0wxdXFEZTBObHVQaEd5TEFPdUtRK1NQVXBKei90bz0.png?imageView&thumbnail=1680x0&quality=96&stripmeta=0" group-title="央视",CCTV戏曲
+https://live.v1.mk/api/bestv.php?id=cctv11hd8m/8000000
+
+#EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="https://imglf4.lf127.net/img/6e34fa1318c0b5e2/VTNweHJFUWlJSFA3aEV2M25lQy9FbE9aMEd1WVZWR3c4N3RHQjV2N2EzRT0.png?imageView&thumbnail=1680x0&quality=96&stripmeta=0" group-title="央视",CCTV法治
+https://live.v1.mk/api/bestv.php?id=cctv12hd8m/8000000
+
+#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="https://imglf5.lf127.net/img/6b80371ba61340cd/VTNweHJFUWlJSFA3aEV2M25lQy9Fb1ZRSTUxb1BYK0tQbWF0dVVIWlpVMD0.png?imageView&thumbnail=1680x0&quality=96&stripmeta=0" group-title="央视",CCTV新闻
+https://live.v1.mk/api/bestv.php?id=cctv13xwhd8m/8000000
+
+#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="https://imglf3.lf127.net/img/715f84b09493a096/VTNweHJFUWlJSFAzc0wxdXFEZTBObTBEVEt6VituTS84SXd2Uk1TcDJjRT0.png?imageView&thumbnail=1680x0&quality=96&stripmeta=0" group-title="央视",CCTV少儿
+https://live.v1.mk/api/bestv.php?id=cctvsehd8m/8000000
+
+#EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="https://imglf4.lf127.net/img/54dae15289d35e3e/VTNweHJFUWlJSFAzc0wxdXFEZTBOaGVCN0xRczFJeHZmcHpTUFBKVzBqZz0.png?imageView&thumbnail=1680x0&quality=96&stripmeta=0" group-title="央视",CCTV音乐
+https://live.v1.mk/api/bestv.php?id=cctv15hd8m/8000000
+
+#EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="https://imglf6.lf127.net/img/2a0b20a78fa623a9/VTNweHJFUWlJSE1jeEZ4YnR2Rk5QUVNIWVNHcytBeU8vdERaei9FTWVmVT0.png?imageView&thumbnail=1680x0&quality=96&stripmeta=0" group-title="央视",CCTV奥运
+https://live.v1.mk/api/bestv.php?id=cctv16hd4k/15000000
+
+#EXTINF:-1 tvg-id="18" tvg-name="CCTV17" tvg-logo="https://imglf3.lf127.net/img/64ca635afb7c677c/VTNweHJFUWlJSFAzc0wxdXFEZTBOaUMzT09aUTlLbFVabGl2aUNtcVoraz0.png?imageView&thumbnail=1680x0&quality=96&stripmeta=0" group-title="央视",CCTV农业
+https://live.v1.mk/api/bestv.php?id=cctv17hd8m/8000000
+
+#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="https://imglf3.lf127.net/img/b4568b897f822998/VTNweHJFUWlJSE1jeEZ4YnR2Rk5QU1BqR3k4dUFWWGdCd0R6Y01mamdnZz0.png?imageView&thumbnail=1680x0&quality=96&stripmeta=0" group-title="4K",CCTV4K
+https://live.v1.mk/api/bestv.php?id=cctv4k/15000000
+
+
+
+#EXTINF:-1 tvg-id="6558" tvg-name="第一剧场" tvg-logo="https://imglf6.lf127.net/img/f0c1d7cfca0c0228/VTNweHJFUWlJSE1jeEZ4YnR2Rk5QZlA5cEx1OXZjREQxRkNRcmlIQ1pDOD0.png?imageView&thumbnail=1680x0&quality=96&stripmeta=0" group-title="数字",第一剧场
+http://baidu.live.cqccn.com/__cl/cg:live/__c/diyijuchangHD/__op/default/__f//index.m3u8
+
+#EXTINF:-1 tvg-id="6559" tvg-name="风云剧场" tvg-logo="https://imglf6.lf127.net/img/2544406639d05e22/VTNweHJFUWlJSE1jeEZ4YnR2Rk5QUU9aeHphaDc2UEorbmgrZ2dJNkY0ND0.png?imageView&thumbnail=1680x0&quality=96&stripmeta=0" group-title="数字",风云剧场
+http://baidu.live.cqccn.com/__cl/cg:live/__c/fyjcHD/__op/default/__f//index.m3u8
+
+#EXTINF:-1 tvg-id="6562" tvg-name="怀旧剧场" tvg-logo="https://imglf3.lf127.net/img/3cf317ffa06b22d9/VTNweHJFUWlJSE1jeEZ4YnR2Rk5QY05BRmZuNFhhbnFnUHgvS1ZtUnZLMD0.png?imageView&thumbnail=1680x0&quality=96&stripmeta=0" group-title="数字",怀旧剧场
+http://baidu.live.cqccn.com/__cl/cg:live/__c/hjjcHD/__op/default/__f//index.m3u8
+
+#EXTINF:-1 tvg-id="6000" tvg-name="风云足球" tvg-logo="https://imglf4.lf127.net/img/79a80663fc51cac0/VTNweHJFUWlJSE1jeEZ4YnR2Rk5QUXlwVVhmaUJndjQzQ0xGSXc0WmxvWT0.png?imageView&thumbnail=1680x0&quality=96&stripmeta=0" group-title="数字",风云足球
+http://baidu.live.cqccn.com/__cl/cg:live/__c/fyzqHD/__op/default/__f//index.m3u8
+
+#EXTINF:-1 tvg-id="6563" tvg-name="兵器科技" tvg-logo="https://imglf3.lf127.net/img/e50d7809710a2a4f/VTNweHJFUWlJSE1jeEZ4YnR2Rk5QZXdNQU9EQVBsa3VkaitIL3B3OXBSTT0.png?imageView&thumbnail=1680x0&quality=96&stripmeta=0" group-title="数字",兵器科技
+http://baidu.live.cqccn.com/__cl/cg:live/__c/bqkjHD/__op/default/__f//index.m3u8
+
+#EXTINF:-1 tvg-id="6557" tvg-name="风云音乐" tvg-logo="https://imglf6.lf127.net/img/0a2532bf5c0a1516/VTNweHJFUWlJSE1jeEZ4YnR2Rk5QUjJzN3Z2TjFtM3Y4TEdLNE9Hb3laVT0.png?imageView&thumbnail=1680x0&quality=96&stripmeta=0" group-title="数字",风云音乐
+http://baidu.live.cqccn.com/__cl/cg:live/__c/fyyyHD/__op/default/__f//index.m3u8
+
+#EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-logo="https://imglf4.lf127.net/img/a8ba1243f5e46b91/VTNweHJFUWlJSE1jeEZ4YnR2Rk5QVkV0bjNIWXBsWnJIV2RBNUFyajJ2RT0.png?imageView&thumbnail=1680x0&quality=96&stripmeta=0" group-title="数字",CHC高清电影
+https://live.v1.mk/aishang/chcgqdy
+
+#EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="https://imglf4.lf127.net/img/d7e69bbfa18d70d7/VTNweHJFUWlJSE1jeEZ4YnR2Rk5QZThlZE44ZTFLM3l1RDkvUE44RmRraz0.png?imageView&thumbnail=1680x0&quality=96&stripmeta=0" group-title="数字",CHC动作电影
+https://live.v1.mk/aishang/chcdzdy
+
+#EXTINF:-1 tvg-id="6246" tvg-name="CHC家庭影院" tvg-logo="https://imglf3.lf127.net/img/4fac733a612c6710/VTNweHJFUWlJSE1jeEZ4YnR2Rk5QZnFWZjVMdmhMcnBnMGlXMWljdXBtTT0.png?imageView&thumbnail=1680x0&quality=96&stripmeta=0" group-title="数字",CHC家庭影院
+https://live.v1.mk/aishang/chcjtyy
+
+
+
+#EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="https://imglf3.lf127.net/img/7acdf77b0005e27c/VTNweHJFUWlJSE1jeEZ4YnR2Rk5QUXBRMUUzNW9kVUZhSC85WGc2MkJlUT0.png?imageView&thumbnail=1680x0&quality=96&stripmeta=0" group-title="粤港澳",广东卫视
+https://live.v1.mk/api/bestv.php?id=gdwshd8m/8000000
+
+#EXTINF:-1 tvg-id="33" tvg-name="广东珠江" tvg-logo="https://imglf6.lf127.net/img/26c27293dfbba212/VTNweHJFUWlJSE1jeEZ4YnR2Rk5QVXBMR0lnbTlVU08zRTlHemE3ZGZZYz0.png?imageView&thumbnail=1680x0&quality=96&stripmeta=0" group-title="粤港澳",广东珠江
+http://lu1.cc/itv/gdtv/gdtv.php?id=gdzj
+
+#EXTINF:-1 tvg-id="33" tvg-name="广东珠江" tvg-logo="https://imglf3.lf127.net/img/a3d9f02f3ac38599/VTNweHJFUWlJSE1jeEZ4YnR2Rk5QZUZhRmgxanBiRHdVM3NWa21tdUsrbz0.png?imageView&thumbnail=1680x0&quality=96&stripmeta=0" group-title="粤港澳",广东珠江
+http://192.168.0.198:5678/gudou.php?phone=18983487992&ptoken=TAgxLHqw0qo%2FCq5yGJnR2A%3D%3D&pserialnumber=c7e575de17854336&cid=370&id=gdzhujiangHD_7500
+
+#EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="https://imglf3.lf127.net/img/2ae23c66ce2f8c4e/VTNweHJFUWlJSFA3aEV2M25lQy9FcXF0VmVmTUQ3VGRUak9KSHFXa2JCND0.png?imageView&thumbnail=1680x0&quality=96&stripmeta=0" group-title="粤港澳",深圳卫视
+https://live.v1.mk/api/bestv.php?id=szwshd8m/8000000
+
+#EXTINF:-1 tvg-id="6013" tvg-name="南国都市" tvg-logo="https://imglf3.lf127.net/img/d368209f0dc3a0aa/VTNweHJFUWlJSFA3aEV2M25lQy9FcC9xOW5hMTBsTDZtdGp5S3RFSysxND0.png?imageView&thumbnail=1680x0&quality=96&stripmeta=0" group-title="粤港澳",南国都市
+https://justsometime.gztv.com/sec/shenghuos.m3u8
+
+#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="https://imglf6.lf127.net/img/dfc5ffbab67799e8/VTNweHJFUWlJSE1jeEZ4YnR2Rk5QZE5NamwvazlPM0xIV1pid3dLelVGTT0.png?imageView&thumbnail=1680x0&quality=96&stripmeta=0" group-title="粤港澳",凤凰中文
+http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
+
+#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="https://imglf5.lf127.net/img/d62b53fe76a00b96/VTNweHJFUWlJSE1jeEZ4YnR2Rk5QZXZwZXRYd29OaVZhQ0hVT2IrZlRTRT0.png?imageView&thumbnail=1680x0&quality=96&stripmeta=0" group-title="粤港澳",凤凰资讯
+http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8
+
+#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/xiangjing7436/tvlogo/f1e092cf71e6975cf80bb3d6f482002586f8dfe3/%E5%92%AA%E5%92%95%E7%88%B1%E7%9C%8B.png" group-title="粤港澳",翡翠台
+http://192.168.0.198:5678/gudou.php?phone=18983487992&ptoken=TAgxLHqw0qo%2FCq5yGJnR2A%3D%3D&pserialnumber=c7e575de17854336&cid=370&id=1350_4500
+
+
+
+#EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="https://imglf5.lf127.net/img/095a3df92fe2cc05/VTNweHJFUWlJSFA3aEV2M25lQy9FbFNMVHk4MFhHUW40c21EbytmYUNJcz0.png?imageView&thumbnail=1680x0&quality=96&stripmeta=0" group-title="重庆",重庆卫视
+https://live.v1.mk/api/bestv.php?id=cqws8m/8000000
+
+#EXTINF:-1 tvg-id="" tvg-name="重庆新闻" tvg-logo="https://imglf5.lf127.net/img/095a3df92fe2cc05/VTNweHJFUWlJSFA3aEV2M25lQy9FbFNMVHk4MFhHUW40c21EbytmYUNJcz0.png?imageView&thumbnail=1680x0&quality=96&stripmeta=0" group-title="重庆",重庆新闻
+http://baidu.live.cqccn.com/__cl/cg:live/__c/CQTVNewsHD/__op/default/__f//index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="重庆影视" tvg-logo="https://imglf5.lf127.net/img/095a3df92fe2cc05/VTNweHJFUWlJSFA3aEV2M25lQy9FbFNMVHk4MFhHUW40c21EbytmYUNJcz0.png?imageView&thumbnail=1680x0&quality=96&stripmeta=0" group-title="重庆",重庆影视
+http://baidu.live.cqccn.com/__cl/cg:live/__c/cqyingshiHD/__op/default/__f//index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="重庆科教" tvg-logo="https://imglf5.lf127.net/img/095a3df92fe2cc05/VTNweHJFUWlJSFA3aEV2M25lQy9FbFNMVHk4MFhHUW40c21EbytmYUNJcz0.png?imageView&thumbnail=1680x0&quality=96&stripmeta=0" group-title="重庆",重庆科教
+http://baidu.live.cqccn.com/__cl/cg:live/__c/CQTVkejiaoHD/__op/default/__f//index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="重庆文体" tvg-logo="https://imglf5.lf127.net/img/095a3df92fe2cc05/VTNweHJFUWlJSFA3aEV2M25lQy9FbFNMVHk4MFhHUW40c21EbytmYUNJcz0.png?imageView&thumbnail=1680x0&quality=96&stripmeta=0" group-title="重庆",重庆文体
+http://baidu.live.cqccn.com/__cl/cg:live/__c/cqwtylHD/__op/default/__f//index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="重庆时尚" tvg-logo="https://imglf5.lf127.net/img/095a3df92fe2cc05/VTNweHJFUWlJSFA3aEV2M25lQy9FbFNMVHk4MFhHUW40c21EbytmYUNJcz0.png?imageView&thumbnail=1680x0&quality=96&stripmeta=0" group-title="重庆",重庆生活
+http://baidu.live.cqccn.com/__cl/cg:live/__c/cqssgwHD/__op/default/__f//index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="重庆少儿" tvg-logo="https://imglf5.lf127.net/img/095a3df92fe2cc05/VTNweHJFUWlJSFA3aEV2M25lQy9FbFNMVHk4MFhHUW40c21EbytmYUNJcz0.png?imageView&thumbnail=1680x0&quality=96&stripmeta=0" group-title="重庆",重庆少儿
+http://baidu.live.cqccn.com/__cl/cg:live/__c/cqseHD/__op/default/__f//index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="重庆农村" tvg-logo="https://imglf5.lf127.net/img/095a3df92fe2cc05/VTNweHJFUWlJSFA3aEV2M25lQy9FbFNMVHk4MFhHUW40c21EbytmYUNJcz0.png?imageView&thumbnail=1680x0&quality=96&stripmeta=0" group-title="重庆",重庆农村
+http://baidu.live.cqccn.com/__cl/cg:live/__c/cqggncHD/__op/default/__f//index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="重庆社会与法" tvg-logo="https://imglf5.lf127.net/img/095a3df92fe2cc05/VTNweHJFUWlJSFA3aEV2M25lQy9FbFNMVHk4MFhHUW40c21EbytmYUNJcz0.png?imageView&thumbnail=1680x0&quality=96&stripmeta=0" group-title="重庆",重庆社会与法
+http://baidu.live.cqccn.com/__cl/cg:live/__c/CQTVTrendyHD/__op/default/__f//index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="重庆移动" tvg-logo="https://imglf5.lf127.net/img/095a3df92fe2cc05/VTNweHJFUWlJSFA3aEV2M25lQy9FbFNMVHk4MFhHUW40c21EbytmYUNJcz0.png?imageView&thumbnail=1680x0&quality=96&stripmeta=0" group-title="重庆",重庆移动
+http://baidu.live.cqccn.com/__cl/cg:live/__c/mryyHD/__op/default/__f//index.m3u8
+
+
+
+#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="https://imglf6.lf127.net/img/545643234a19fde8/VTNweHJFUWlJSE1jeEZ4YnR2Rk5QYzdEVVJxMlNNc1NhZVF2NU8yNkFoVT0.png?imageView&thumbnail=1680x0&quality=96&stripmeta=0" group-title="卫视",北京卫视
+https://live.v1.mk/api/bestv.php?id=bjwshd8m/8000000
+
+#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="https://imglf5.lf127.net/img/dc2bbdfa8ea9d9f2/VTNweHJFUWlJSFA3aEV2M25lQy9Fbmt6aWpxcjg2TzFVWUFEbHpXNDBxVT0.png?imageView&thumbnail=1680x0&quality=96&stripmeta=0" group-title="卫视",湖南卫视
+https://live.v1.mk/api/bestv.php?id=hunanwshd8m/8000000
+
+#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="https://imglf5.lf127.net/img/61a3643e8eec672b/VTNweHJFUWlJSFA3aEV2M25lQy9FcUphMTQvb29USDJ5Vi9xUnFjSEVWTT0.png?imageView&thumbnail=1680x0&quality=96&stripmeta=0" group-title="卫视",江苏卫视
+https://live.v1.mk/api/bestv.php?id=jswshd8m/8000000
+
+#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="https://imglf5.lf127.net/img/c77569122339f209/VTNweHJFUWlJSE1jeEZ4YnR2Rk5QWTlaY3d5UDYrcnhsbTFNTjg3S1Bpcz0.png?imageView&thumbnail=1680x0&quality=96&stripmeta=0" group-title="卫视",浙江卫视
+https://live.v1.mk/api/bestv.php?id=zjwshd8m/8000000
+
+#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="https://imglf3.lf127.net/img/074ba892ae6d25da/VTNweHJFUWlJSFA3aEV2M25lQy9FaElyaXNEeEpUM3NkeS9WZktNRWlBVT0.png?imageView&thumbnail=1680x0&quality=96&stripmeta=0" group-title="卫视",东方卫视
+https://live.v1.mk/api/bestv.php?id=dfwshd8m/8000000
+
+#EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-logo="https://imglf5.lf127.net/img/2f70a150b02adfbf/VTNweHJFUWlJSFA3aEV2M25lQy9FdHFaRVg2M0hpcWp6V3hZSHVzS1Jobz0.png?imageView&thumbnail=1680x0&quality=96&stripmeta=0" group-title="卫视",安徽卫视
+https://live.v1.mk/api/bestv.php?id=ahwshd8m/8000000
+
+#EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="https://imglf3.lf127.net/img/d368209f0dc3a0aa/VTNweHJFUWlJSFA3aEV2M25lQy9FcC9xOW5hMTBsTDZtdGp5S3RFSysxND0.png?imageView&thumbnail=1680x0&quality=96&stripmeta=0" group-title="卫视",广东卫视
+https://live.v1.mk/api/bestv.php?id=gdwshd8m/8000000
+
+#EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="https://imglf3.lf127.net/img/2ae23c66ce2f8c4e/VTNweHJFUWlJSFA3aEV2M25lQy9FcXF0VmVmTUQ3VGRUak9KSHFXa2JCND0.png?imageView&thumbnail=1680x0&quality=96&stripmeta=0" group-title="卫视",深圳卫视
+https://live.v1.mk/api/bestv.php?id=szwshd8m/8000000
+
+#EXTINF:-1 tvg-id="36" tvg-name="辽宁卫视" tvg-logo="https://imglf6.lf127.net/img/0479301b76cecc6a/VTNweHJFUWlJSFA3aEV2M25lQy9Fb3RDb1FyTjFqcUJuMnlaTnhxWlk2MD0.png?imageView&thumbnail=1680x0&quality=96&stripmeta=0" group-title="卫视",辽宁卫视
+https://live.v1.mk/api/bestv.php?id=lnwshd8m/8000000
+
+#EXTINF:-1 tvg-id="50" tvg-name="广西卫视" tvg-logo="https://imglf4.lf127.net/img/e9504b39558fed98/VTNweHJFUWlJSFAzc0wxdXFEZTBOdGFuK1UxaytkYWZ6RGdKNHV4aERTND0.png?imageView&thumbnail=1680x0&quality=96&stripmeta=0" group-title="卫视",广西卫视
+https://live.v1.mk/api/bestv.php?id=gxwshd8m/8000000
+
+#EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="https://imglf3.lf127.net/img/1e0cc164fc53c127/VTNweHJFUWlJSFAzc0wxdXFEZTBOdm1EbWJXZ0k2cjRvU01ablZYQUJoMD0.png?imageView&thumbnail=1680x0&quality=96&stripmeta=0" group-title="卫视",四川卫视
+https://live.v1.mk/api/bestv.php?id=scwshd/8000000
+
+#EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-logo="https://imglf6.lf127.net/img/a68e71c3c2233fba/VTNweHJFUWlJSFA3aEV2M25lQy9FcFRiZmJKN0tzOTd3WXZYeDhBRDVVYz0.png?imageView&thumbnail=1680x0&quality=96&stripmeta=0" group-title="卫视",湖北卫视
+https://live.v1.mk/api/bestv.php?id=hubeiws8m/8000000
+
+#EXTINF:-1 tvg-id="47" tvg-name="河南卫视" tvg-logo="https://imglf5.lf127.net/img/af640c4127b09779/VTNweHJFUWlJSFAzc0wxdXFEZTBOcXdjRTdaRWJxb1pBNzUxY01iV01zWT0.png?imageView&thumbnail=1680x0&quality=96&stripmeta=0" group-title="卫视",河南卫视
+https://live.v1.mk/api/bestv.php?id=hnwshd8m/8000000
+
+#EXTINF:-1 tvg-id="45" tvg-name="河北卫视" tvg-logo="https://imglf3.lf127.net/img/373c82de85faa7f0/VTNweHJFUWlJSFAzc0wxdXFEZTBOb3VQZVdzTzU0Wm5XYnl2MU5odlVrbz0.png?imageView&thumbnail=1680x0&quality=96&stripmeta=0" group-title="卫视",河北卫视
+https://live.v1.mk/api/bestv.php?id=hbwshd8m/8000000
+
+#EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-logo="https://imglf5.lf127.net/img/7889b627d4da19ff/VTNweHJFUWlJSFAzc0wxdXFEZTBOb3IxVlg3QUFNWkJ4OXZDYW83UWdtMD0.png?imageView&thumbnail=1680x0&quality=96&stripmeta=0" group-title="卫视",黑龙江卫视
+https://live.v1.mk/api/bestv.php?id=hljwshd8m/8000000
+
+#EXTINF:-1 tvg-id="41" tvg-name="东南卫视" tvg-logo="https://imglf6.lf127.net/img/15802ff6bb510e71/VTNweHJFUWlJSE1jeEZ4YnR2Rk5QZmZaQ2lIK2NQaFNSWC91S2V4bjBTOD0.png?imageView&thumbnail=1680x0&quality=96&stripmeta=0" group-title="卫视",东南卫视
+https://live.v1.mk/api/bestv.php?id=dnwshd8m/8000000
+
+#EXTINF:-1 tvg-id="39" tvg-name="天津卫视" tvg-logo="https://imglf3.lf127.net/img/3732c22399ef574d/VTNweHJFUWlJSFA3aEV2M25lQy9FcW5hMGcyR0VJYUk1YWlDakxsaHlXZz0.png?imageView&thumbnail=1680x0&quality=96&stripmeta=0" group-title="卫视",天津卫视
+https://live.v1.mk/api/bestv.php?id=tjwshd8m/8000000
+
+#EXTINF:-1 tvg-id="38" tvg-name="山东卫视" tvg-logo="https://imglf6.lf127.net/img/9cba233442336792/VTNweHJFUWlJSFA3aEV2M25lQy9Fazk0UWEzTGN2RGlFWnpHYWFDWXMvUT0.png?imageView&thumbnail=1680x0&quality=96&stripmeta=0" group-title="卫视",山东卫视
+https://live.v1.mk/api/bestv.php?id=sdws8m/8000000
+
+#EXTINF:-1 tvg-id="50" tvg-name="江西卫视" tvg-logo="https://imglf5.lf127.net/img/90143596b457a3f0/VTNweHJFUWlJSFA3aEV2M25lQy9FdlZyY2VsbnhVMTh1N21TSWF1TEwwQT0.png?imageView&thumbnail=1680x0&quality=96&stripmeta=0" group-title="卫视",江西卫视
+https://live.v1.mk/api/bestv.php?id=jxws8m/8000000
+
+#EXTINF:-1 tvg-id="51" tvg-name="吉林卫视" tvg-logo="https://imglf6.lf127.net/img/f6d26c42bda81409/VTNweHJFUWlJSFAzc0wxdXFEZTBObEhabVJ3UGJ0QlZmNHI4MisrajkvUT0.png?imageView&thumbnail=1680x0&quality=96&stripmeta=0" group-title="卫视",吉林卫视
+https://live.v1.mk/api/bestv.php?id=jlwshd8m/8000000
+
+#EXTINF:-1 tvg-id="54" tvg-name="贵州卫视" tvg-logo="https://imglf3.lf127.net/img/61938e8b4a8432e9/VTNweHJFUWlJSFAzc0wxdXFEZTBOamROZDgxakhsbGh1QTFWeW9RYjhTOD0.png?imageView&thumbnail=1680x0&quality=96&stripmeta=0" group-title="卫视",贵州卫视
+https://live.v1.mk/api/bestv.php?id=gzwshd8m/8000000
+
+#EXTINF:-1 tvg-id="57" tvg-name="新疆卫视" tvg-logo="https://imglf4.lf127.net/img/27a60278b19f0a6c/VTNweHJFUWlJSFAzc0wxdXFEZTBOa2wwY29RaWVkM1VvT2prZ0VGa1Q1az0.png?imageView&thumbnail=1680x0&quality=96&stripmeta=0" group-title="卫视",新疆卫视
+http://livehyw5.chinamcache.com/hyw/zb01.m3u8?txSecret=e324d6aa899cb5750496e473e7ccccd8&txTime=95933641826
+
+#EXTINF:-1 tvg-id="58" tvg-name="云南卫视" tvg-logo="https://imglf5.lf127.net/img/cd031d75adbaaf35/VTNweHJFUWlJSFAzc0wxdXFEZTBOcXByaFoxWTRBUnlFa0JCOTZRNVNCWT0.png?imageView&thumbnail=1680x0&quality=96&stripmeta=0" group-title="卫视",云南卫视
+https://live.v1.mk/api/bestv.php?id=ynwshd8m/8000000
+
+#EXTINF:-1 tvg-id="59" tvg-name="青海卫视" tvg-logo="https://imglf5.lf127.net/img/cc64672aba869c83/VTNweHJFUWlJSFAzc0wxdXFEZTBOclFsY2M5ZktrR3ExcW14Y0lNUGFXWT0.png?imageView&thumbnail=1680x0&quality=96&stripmeta=0" group-title="卫视",青海卫视
+https://live.v1.mk/api/ghyx.php?id=QingHaiHD_2000
+
+#EXTINF:-1 tvg-id="42" tvg-name="甘肃卫视" tvg-logo="https://imglf5.lf127.net/img/8d9dfb73500c1aee/VTNweHJFUWlJSFAzc0wxdXFEZTBOazUrcU52ZG9iZnlDaXBBS0N1V1lhMD0.png?imageView&thumbnail=1680x0&quality=96&stripmeta=0" group-title="卫视",甘肃卫视
+https://live.v1.mk/api/bestv.php?id=gswshd8m/8000000
+
+#EXTINF:-1 tvg-id="37" tvg-name="旅游卫视" tvg-logo="https://imglf4.lf127.net/img/bc89f5439fa92eb2/VTNweHJFUWlJSFAzc0wxdXFEZTBObnN1WnFZUms0U05LSUJjZWc0UmZGRT0.png?imageView&thumbnail=1680x0&quality=96&stripmeta=0" group-title="卫视",海南卫视
+https://live.v1.mk/api/bestv.php?id=hainanwshd8m/8000000
+
+#EXTINF:-1 tvg-id="52" tvg-name="内蒙古卫视" tvg-logo="https://imglf4.lf127.net/img/fb1b545c6093f8b2/VTNweHJFUWlJSFAzc0wxdXFEZTBObzZOU1BhYW9LZW01NDZVOXlUL2pSTT0.png?imageView&thumbnail=1680x0&quality=96&stripmeta=0" group-title="卫视",内蒙古卫视
+http://player.521fanli.cn/1691/nmg/nmgm3u8.php?id=neimenggu
+
+#EXTINF:-1 tvg-id="71" tvg-name="西藏卫视" tvg-logo="https://imglf5.lf127.net/img/6024a0b1cdd187a2/VTNweHJFUWlJSE51NFV3L290VmRJbElpOEpwT2tBY01sRUhFdjUvYm1wbz0.png?imageView&thumbnail=1680x0&quality=96&stripmeta=0" group-title="卫视",西藏卫视
+http://tv.vtibet.cn/live/EfgSmE4jCTBtvchannel3.m3u8
+
+#EXTINF:-1 tvg-id="53" tvg-name="宁夏卫视" tvg-logo="https://imglf5.lf127.net/img/4c4971d008e9873a/VTNweHJFUWlJSE51NFV3L290VmRJamZraVpVc21SSW9KQUVSQUhJRXh2MD0.png?imageView&thumbnail=1680x0&quality=96&stripmeta=0" group-title="卫视",宁夏卫视
+http://livepgc.cmc.ningxiahuangheyun.com/pgc/deb40eb3174c0c2d62c30810f0087d64.m3u
+
+
+
+#EXTINF:-1 tvg-id="1987" tvg-name="五星体育" tvg-logo="https://imglf5.lf127.net/img/7159aae01e580a63/VTNweHJFUWlJSE1jeEZ4YnR2Rk5QVUlpRUlaMEJPV0hReFRyMVlvUlNRRT0.png?imageView&thumbnail=1680x0&quality=96&stripmeta=0" group-title="体育",五星体育
+https://live.v1.mk/api/bestv.php?id=wxtyhd8m/8000000
+
+#EXTINF:-1 tvg-id="1987" tvg-name="劲爆体育" tvg-logo="https://imglf3.lf127.net/img/6e96b7b526ab31e0/VTNweHJFUWlJSE1jeEZ4YnR2Rk5QWm9qVDBuY0xiUktQMTZiNG9EbFlxYz0.png?imageView&thumbnail=1680x0&quality=96&stripmeta=0" group-title="体育",劲爆体育
+https://live.v1.mk/api/bestv.php?id=jbtyhd8m/8000000
+
+#EXTINF:-1 tvg-id="1987" tvg-name="新视觉HD" tvg-logo="https://imglf4.lf127.net/img/897c3bb79458275d/VTNweHJFUWlJSFA3aEV2M25lQy9FdTlvVkhOdWovRVA1czJleEpYaFZzOD0.png?imageView&thumbnail=1680x0&quality=96&stripmeta=0" group-title="体育",新视觉HD
+https://live.v1.mk/api/bestv.php?id=xsjhd8m/8000000
+
+#EXTINF:-1 tvg-id="7242" tvg-name="魅力足球" tvg-logo="https://imglf5.lf127.net/img/1fcc2760367e511f/VTNweHJFUWlJSE1jeEZ4YnR2Rk5QVGNUUWVjUGRINlJOY1owQkZUQlZEQT0.png?imageView&thumbnail=1680x0&quality=96&stripmeta=0" group-title="体育",魅力足球
+http://tt-live.bestvcdn.com.cn/live/program/live/mlyyhd8m/8000000/mnf.m3u8
+
+
+#EXTINF:-1 tvg-id="1987" tvg-name="都市剧场" tvg-logo="https://imglf4.lf127.net/img/3f281919091f38b5/VTNweHJFUWlJSE9iNHlWcmVTWVA5N3JXNlJnYmVBR3R4bHhWMnVPWld3OD0.png?imageView&thumbnail=1680x0&quality=96&stripmeta=0" group-title="数字",都市剧场
+https://live.v1.mk/api/bestv.php?id=dsjc8m/8000000
+
+#EXTINF:-1 tvg-id="1981" tvg-name="生活时尚" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shenghuoshishang.png" group-title="数字",生活时尚
+https://live.v1.mk/api/bestv.php?id=shss8m/8000000
+
+#EXTINF:-1 tvg-id="1987" tvg-name="乐游" tvg-logo="https://imglf6.lf127.net/img/65f86019db5fdf9f/VTNweHJFUWlJSE9iNHlWcmVTWVA5MzVTZW5EWWxvUWlBTlpPTmZtbXpXOD0.png?imageView&thumbnail=1680x0&quality=96&stripmeta=0" group-title="数字",乐游
+https://live.v1.mk/api/bestv.php?id=qjshd8m/8000000
+
+#EXTINF:-1 tvg-id="1986" tvg-name="东方影视" tvg-logo="https://imglf5.lf127.net/img/0e4b611682a78329/VTNweHJFUWlJSFA3aEV2M25lQy9FbFkySDZHK0R6THo3SHBTUzBWNUtmcz0.png?imageView&thumbnail=1680x0&quality=96&stripmeta=0" group-title="数字",东方影视
+https://live.v1.mk/api/bestv.php?id=dfyshd8m/8000000
+
+#EXTINF:-1 tvg-id="1984" tvg-name="上视新闻频道" tvg-logo="https://imglf4.lf127.net/img/a1ba32686fdcbc0a/VTNweHJFUWlJSE51NFV3L290VmRJZ3ZWNnlnNWxvdHUwOEVzRjhiUVlwdz0.png?imageView&thumbnail=1680x0&quality=96&stripmeta=0" group-title="数字",新闻综合
+https://live.v1.mk/api/bestv.php?id=xwzhhd8m/8000000
+
+#EXTINF:-1 tvg-id="1988" tvg-name="上海纪实" tvg-logo="https://imglf6.lf127.net/img/946a62b1d21b431e/VTNweHJFUWlJSFA3aEV2M25lQy9FaE5DVXBBaVhEekllVTNudUlPNVVKMD0.png?imageView&thumbnail=1680x0&quality=96&stripmeta=0" group-title="数字",上海纪实
+https://live.v1.mk/api/bestv.php?id=jspdhd/4000000
+
+#EXTINF:-1 tvg-id="1989" tvg-name="上海都市频道" tvg-logo="https://imglf3.lf127.net/img/9a8b26cbb98909db/VTNweHJFUWlJSFA3aEV2M25lQy9FbDNucnppQWdTMGsxRHJvb0Z3TC9TZz0.png?imageView&thumbnail=1680x0&quality=96&stripmeta=0" group-title="数字",上海都市
+https://live.v1.mk/api/bestv.php?id=dshd8m/8000000
+
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/炫动卡通.png" group-title="数字",炫动卡通
+http://tt-live.bestvcdn.com.cn/live/program/live/hhxd8m/8000000/mnf.m3u8
+
+#EXTINF:-1,tvg-id="动漫秀场" tvg-name="动漫秀场" tvg-logo="https://epg.112114.xyz/logo/动漫秀场.png" group-title="数字",动漫秀场
+http://tt-live.bestvcdn.com.cn/live/program/live/dmxc8m/8000000/mnf.m3u8
+
+#EXTINF:-1 tvg-id="1985" tvg-name="第一财经" tvg-logo="https://imglf4.lf127.net/img/8f59c5418c1247ca/VTNweHJFUWlJSFA3aEV2M25lQy9FaGxzOHQ1TUcxc2pOTkdIVmtkVDlkTT0.png?imageView&thumbnail=1680x0&quality=96&stripmeta=0" group-title="数字",第一财经
+https://live.v1.mk/api/bestv.php?id=dycjhd8m/8000000
+
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/东方财经.png" group-title="数字",东方财经
+http://tt-live.bestvcdn.com.cn/live/program/live/dfcjhd8m/8000000/mnf.m3u8
+
+#EXTINF:-1 tvg-id="1991" tvg-name="ICS外语" tvg-logo="https://imglf3.lf127.net/img/4eb5d84b96fa0be5/VTNweHJFUWlJSE51NFV3L290VmRJb0poVVFKakoyOWhsckZjZExZQmJ0cz0.png?imageView&thumbnail=1680x0&quality=96&stripmeta=0" group-title="数字",上海ICS外语
+https://live.v1.mk/api/bestv.php?id=icshd8m/8000000
+
+#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="数字",法治天地
+http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/fztd8m/8000000/mnf.m3u8
+
+#EXTINF:-1,tvg-id="SITV金色学堂" tvg-name="SITV金色学堂" tvg-logo="https://epg.112114.xyz/logo/SITV金色学堂.png" group-title="数字",金色学堂
+http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/jingsepd8m/8000000/mnf.m3u8
+
+#EXTINF:-1 tvg-id="1977" tvg-name="欢笑剧场" tvg-logo="https://imglf6.lf127.net/img/a79ef115f14daf63/VTNweHJFUWlJSE51NFV3L290VmRJbWZhYjJpTG96bTR5Y2c1OThvYXVDaz0.png?imageView&thumbnail=1680x0&quality=96&stripmeta=0" group-title="4K",欢笑剧场4K
+http://159.75.85.63:5681/sxg.php?id=hxjc-4k_8000
+
+
+#EXTINF:-1,tvg-id="" tvg-name="BesTV" tvg-logo="https://imglf4.lf127.net/img/84eaedd4fb176e36/VTNweHJFUWlJSE51NFV3L290VmRJaGZlSEVrdWdmc2pKbW5nRE8vcEdYQT0.png?imageView&thumbnail=1680x0&quality=96&stripmeta=0",group-title="数字",BesTV全球大片
+http://tt-live.bestvcdn.com.cn/live/program/live/qqdp8m/8000000/mnf.m3u8
+
+#EXTINF:-1,tvg-id="" tvg-name="BesTV" tvg-logo="https://imglf4.lf127.net/img/84eaedd4fb176e36/VTNweHJFUWlJSE51NFV3L290VmRJaGZlSEVrdWdmc2pKbW5nRE8vcEdYQT0.png?imageView&thumbnail=1680x0&quality=96&stripmeta=0",group-title="数字",BesTV热门剧场
+http://tt-live.bestvcdn.com.cn/live/program/live/rmjc8m/8000000/mnf.m3u8
+
+#EXTINF:-1,tvg-id="" tvg-name="BesTV" tvg-logo="https://imglf4.lf127.net/img/84eaedd4fb176e36/VTNweHJFUWlJSE51NFV3L290VmRJaGZlSEVrdWdmc2pKbW5nRE8vcEdYQT0.png?imageView&thumbnail=1680x0&quality=96&stripmeta=0",group-title="数字",BesTV星光影院
+http://tt-live.bestvcdn.com.cn/live/program/live/xgyy8m/8000000/mnf.m3u8
+
+#EXTINF:-1,tvg-id="" tvg-name="BesTV" tvg-logo="https://imglf4.lf127.net/img/84eaedd4fb176e36/VTNweHJFUWlJSE51NFV3L290VmRJaGZlSEVrdWdmc2pKbW5nRE8vcEdYQT0.png?imageView&thumbnail=1680x0&quality=96&stripmeta=0",group-title="数字",BesTV青春动漫
+http://tt-live.bestvcdn.com.cn/live/program/live/qcdm8m/8000000/mnf.m3u8
+
+#EXTINF:-1,tvg-id="" tvg-name="BesTV" tvg-logo="https://imglf4.lf127.net/img/84eaedd4fb176e36/VTNweHJFUWlJSE51NFV3L290VmRJaGZlSEVrdWdmc2pKbW5nRE8vcEdYQT0.png?imageView&thumbnail=1680x0&quality=96&stripmeta=0",group-title="数字",BesTV宝宝动画
+https://live.v1.mk/api/bestv.php?id=bbdh8m/8000000
+
+#EXTINF:-1,tvg-id="" tvg-name="BesTV" tvg-logo="https://imglf4.lf127.net/img/84eaedd4fb176e36/VTNweHJFUWlJSE51NFV3L290VmRJaGZlSEVrdWdmc2pKbW5nRE8vcEdYQT0.png?imageView&thumbnail=1680x0&quality=96&stripmeta=0",group-title="数字",BesTV谍战剧场
+https://live.v1.mk/api/bestv.php?id=dzjc8m/8000000
+
+#EXTINF:-1 tvg-id="30" tvg-name="卡酷少儿" tvg-logo="https://imglf5.lf127.net/img/303991d045dfc6d9/VTNweHJFUWlJSFA3aEV2M25lQy9Fc3VYcWhxbVhYVytaV0ZTZGd5b1VLVT0.png?imageView&thumbnail=1680x0&quality=96&stripmeta=0" group-title="数字",卡酷少儿
+https://live.v1.mk/api/bestv.php?id=kkse8m/8000000
+
+#EXTINF:-1 tvg-id="30" tvg-name="纪实科教" tvg-logo="https://imglf5.lf127.net/img/303991d045dfc6d9/VTNweHJFUWlJSFA3aEV2M25lQy9Fc3VYcWhxbVhYVytaV0ZTZGd5b1VLVT0.png?imageView&thumbnail=1680x0&quality=96&stripmeta=0" group-title="数字",纪实科教
+https://live.v1.mk/api/bestv.php?id=kkse8m/8000000
+
+#EXTINF:-1 tvg-id="56" tvg-name="峨眉电影" tvg-logo="https://imglf3.lf127.net/img/1e0cc164fc53c127/VTNweHJFUWlJSFAzc0wxdXFEZTBOdm1EbWJXZ0k2cjRvU01ablZYQUJoMD0.png?imageView&thumbnail=1680x0&quality=96&stripmeta=0" group-title="数字",峨眉电影
+http://wabc.ml/sxg.php?id=emdygqH265_4000
+
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/炫动卡通.png" group-title="数字",炫动卡通
+https://live.v1.mk/api/bestv.php?id=hhxd8m/8000000
